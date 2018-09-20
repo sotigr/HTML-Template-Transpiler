@@ -1,6 +1,7 @@
 # HTML-Template-Transpiler
 Converts html templates to javascript generator functions
 
+## Raw code generation
 ```javascript
 
 //Example html template
